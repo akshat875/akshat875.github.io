@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/76c9b78e-3253-4380-9542-0dd687e50d68)
 
-<br>
+<br> 
 
 [![Website](https://img.shields.io/website?label=akshat&style=for-the-badge&url=https://akshat875.github.io/)](https://akshat875.github.io/)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshat87a)
